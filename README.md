@@ -149,10 +149,12 @@ their original providers.
 
 ## Citation
 
+## Citation
+
 Citation metadata are provided in [`CITATION.cff`](CITATION.cff).
 
 **Specific release DOI — v0.1.1:**  
-`10.5281/zenodo.21524693`
+[10.5281/zenodo.21524693](https://doi.org/10.5281/zenodo.21524693)
 
 **All versions / latest release DOI:**  
-`10.5281/zenodo.21524692`
+[10.5281/zenodo.21524692](https://doi.org/10.5281/zenodo.21524692)
