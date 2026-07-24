@@ -146,3 +146,13 @@ The required shared-gene order is stored at:
 The analysis code and repository documentation are released under
 the MIT License. Source datasets remain subject to the terms of
 their original providers.
+
+## Citation
+
+Citation metadata are provided in [`CITATION.cff`](CITATION.cff).
+
+**Specific release DOI — v0.1.1:**  
+`10.5281/zenodo.21524693`
+
+**All versions / latest release DOI:**  
+`10.5281/zenodo.21524692`
