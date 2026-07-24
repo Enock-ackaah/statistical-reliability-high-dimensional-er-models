@@ -1,0 +1,23 @@
+PROJECT 1 REPRODUCIBILITY RECORD
+
+Created:
+2026-07-23T20:43:05.494248-04:00
+
+Project directory:
+C:\GEO_Breast_Reliability
+
+Python executable:
+C:\Users\kumia\AppData\Local\Python\pythoncore-3.14-64\python.exe
+
+Python version:
+3.14.5 (tags/v3.14.5:5607950, May 10 2026, 10:43:50) [MSC v.1944 64 bit (AMD64)]
+
+Purpose:
+This folder records the software environment and SHA-256
+checksums for the GSE81538 405-tumor sensitivity model
+before conducting a clean-environment reproducibility test.
+
+Files created:
+1. environment_information.json
+2. requirements_current_environment.txt
+3. model_artifact_sha256_checksums.csv

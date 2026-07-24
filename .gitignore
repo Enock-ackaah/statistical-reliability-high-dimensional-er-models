@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+.venv_repro/
+venv/
+env/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Raw and processed datasets
+GSE81538/
+GSE96058/
+Processed/
+processed/
+raw_data/
+data/raw/
+data/processed/
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*BACKUP*
+~$*
+*.log
+
+# Large intermediate results
+*gene_selection_records*.csv
+*coefficient_direction_records*.csv
+*bootstrap_results*.csv
+*sample_size_stress_results*.csv
+*external_predictions*.csv

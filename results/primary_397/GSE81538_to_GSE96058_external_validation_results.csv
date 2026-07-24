@@ -1,0 +1,2 @@
+development_dataset,external_validation_dataset,development_samples,external_samples,shared_genes,selected_genes,external_er_positive_prevalence,AUROC,AUPRC,balanced_accuracy,sensitivity,specificity,brier_score,true_negatives,false_positives,false_negatives,true_positives
+GSE81538,GSE96058,397,3073,18213,1000,0.9215750081353726,0.9698745223527204,0.9971293871472462,0.9390420974283236,0.9403248587570622,0.9377593360995851,0.05394292854488723,226,15,169,2663

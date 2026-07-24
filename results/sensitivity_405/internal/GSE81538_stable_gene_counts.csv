@@ -1,0 +1,6 @@
+sample_size,genes_selected_in_at_least_50_percent,genes_selected_in_at_least_80_percent
+50,518,145
+100,765,361
+200,881,561
+300,937,696
+405,965,808

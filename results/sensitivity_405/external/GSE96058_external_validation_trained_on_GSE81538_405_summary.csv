@@ -1,0 +1,2 @@
+development_cohort,development_sample_size,external_cohort,external_sample_size,AUROC,AUPRC,balanced_accuracy,sensitivity,specificity,brier_score,true_negatives,false_positives,false_negatives,true_positives
+GSE81538 sensitivity cohort,405,GSE96058,3073,0.9671712731790796,0.9965697567155143,0.9340539067444968,0.9427966101694916,0.9253112033195021,0.050983641312384045,223,18,162,2670

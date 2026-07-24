@@ -1,0 +1,22 @@
+{
+    "model_artifact_checksums_verified": true,
+    "model_loaded_successfully": true,
+    "shared_gene_order_verified": true,
+    "external_sample_size": 3073,
+    "number_of_aligned_genes": 18213,
+    "classification_threshold": 0.5,
+    "maximum_probability_difference": 1.1102230246251565e-16,
+    "mean_probability_difference": 4.373965095692702e-17,
+    "prediction_disagreements": 0,
+    "AUROC": 0.9671712731790796,
+    "AUPRC": 0.9965697567155143,
+    "balanced_accuracy": 0.9340539067444968,
+    "sensitivity": 0.9427966101694916,
+    "specificity": 0.9253112033195021,
+    "brier_score": 0.050983641312384045,
+    "true_negatives": 223,
+    "false_positives": 18,
+    "false_negatives": 162,
+    "true_positives": 2670,
+    "reproducibility_status": "PASSED"
+}

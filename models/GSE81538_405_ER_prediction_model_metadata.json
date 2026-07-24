@@ -1,0 +1,20 @@
+{
+    "model_name": "GSE81538 405-tumor ER prediction pipeline",
+    "development_dataset": "GSE81538",
+    "development_sample_size": 405,
+    "development_er_negative": 82,
+    "development_er_positive": 323,
+    "external_validation_dataset": "GSE96058",
+    "external_validation_sample_size": 3073,
+    "number_of_shared_genes": 18213,
+    "number_of_selected_genes": 1000,
+    "classification_threshold": 0.5,
+    "model_type": "Class-weighted L2 logistic regression",
+    "pipeline_steps": [
+        "VarianceThreshold",
+        "SelectKBest with f_classif",
+        "StandardScaler",
+        "LogisticRegression"
+    ],
+    "scikit_learn_version": "1.8.0"
+}

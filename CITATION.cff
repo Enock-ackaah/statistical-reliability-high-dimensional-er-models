@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Please cite this repository when using its code, model artifacts, or results."
+title: "Statistical Reliability of High-Dimensional ER-Status Prediction Models"
+type: software
+authors:
+  - family-names: "Ackaah"
+    given-names: "Enock Kumi"
+version: "0.1.0"
+date-released: "2026-07-23"
+repository-code: "https://github.com/Enock-ackaah/statistical-reliability-high-dimensional-er-models"
+url: "https://github.com/Enock-ackaah/statistical-reliability-high-dimensional-er-models"
+license: MIT
+keywords:
+  - "breast cancer"
+  - "estrogen receptor"
+  - "RNA sequencing"
+  - "machine learning"
+  - "statistical reliability"
+  - "feature-selection stability"
+  - "external validation"
+  - "biomedical prediction"
+abstract: >
+  Code, fitted-model artifacts, compact results, and reproducibility
+  evidence for evaluating predictive performance, feature-selection
+  stability, coefficient-direction reproducibility, and external
+  reliability across development sample sizes in high-dimensional
+  breast-cancer RNA-sequencing models.

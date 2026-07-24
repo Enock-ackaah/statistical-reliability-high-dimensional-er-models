@@ -1,0 +1,13 @@
+{
+    "audit_date": "2026-07-23T23:26:57.012982-04:00",
+    "repository_name": "statistical-reliability-high-dimensional-er-models",
+    "repository_path": "C:\\GEO_Breast_Reliability\\github_release\\statistical-reliability-high-dimensional-er-models",
+    "required_files_verified": true,
+    "prohibited_folders_found": [],
+    "temporary_files_found": [],
+    "files_larger_than_25_mb": [],
+    "manifest_file_count": 54,
+    "total_repository_size_bytes": 4419266,
+    "total_repository_size_megabytes": 4.214540481567383,
+    "final_status": "PASSED"
+}
